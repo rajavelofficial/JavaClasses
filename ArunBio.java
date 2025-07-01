@@ -26,3 +26,16 @@ public class ArunBio {
 
     }
 }
+/*
+OUTPUT:
+Name          : Arun A
+Age           : 21
+Date of Birth : 28-jun-2003
+Door No       : 448
+Street        : Keela Street
+Native        : Thayilpatti
+Panchayat     : Sethu Ramalaingapuram
+Pincode       : 626128
+Blood Group   : B Pasitive
+UG Degree     : B.SC Computer Science
+ */
