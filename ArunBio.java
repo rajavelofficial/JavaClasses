@@ -23,6 +23,7 @@ public class ArunBio {
         System.out.println("Pincode       : " + myObj.pincode);
         System.out.println("Blood Group   : " + myObj.bloodGroup);
         System.out.println("UG Degree     : " + myObj.UGDegree);
+        System.out.println("");
 
     }
 }
@@ -38,4 +39,4 @@ Panchayat     : Sethu Ramalaingapuram
 Pincode       : 626128
 Blood Group   : B Pasitive
 UG Degree     : B.SC Computer Science
- */
+*/
