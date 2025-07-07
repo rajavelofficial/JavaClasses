@@ -11,13 +11,8 @@ public class BitMask {
         if(( Permission & WRITE) != 0 ){
             System.out.println("User hava Write Permission");
         }else{
-            System.out.println("");
+            System.out.println("Not Write Permission");
         }
-
-        System.out.println(READ);
-        System.out.println(WRITE);
-        System.out.println(EXCUTE);
-        System.out.println(Permission);
 
     }
     
