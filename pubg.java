@@ -1,4 +1,4 @@
-public class Pubg {
+public class Pubg{
     static void erangal(){
         System.err.println("Erangal was one of Famaus Map in Pubg and it's also default map in the game");
     }
