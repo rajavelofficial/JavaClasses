@@ -8,11 +8,16 @@ public class BitMask {
         Permission |= READ ;
         Permission |= WRITE ;
 
+        System.out.println("");
+
         if(( Permission & WRITE) != 0 ){
             System.out.println("User hava Write Permission");
         }else{
             System.out.println("Not Write Permission");
         }
+        
+        System.out.println("Reading Point : " + READ );
+        System.out.println("Excute level : " + EXCUTE );
 
     }
     
